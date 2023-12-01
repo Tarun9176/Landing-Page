@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Landing-Page
+  annotations:
+    github.com/project-slug: Tarun9176/Landing-Page
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
